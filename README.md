@@ -8,7 +8,7 @@ Abstractive summarization of CNN news article and visualization using Stable Dif
 
 #Sample Summary and image generated:
 1. "Daredevil" is coming to theaters on january 7.
-<br>
+
 ![image](https://user-images.githubusercontent.com/23742943/236372079-9317a51f-eb57-4279-90b2-efe4065a937d.png)
 <br>
 
