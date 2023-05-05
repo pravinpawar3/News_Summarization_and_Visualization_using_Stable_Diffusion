@@ -19,4 +19,4 @@ Abstractive summarization of CNN news article and visualization using Stable Dif
 
 
 # Dataset:
-[Link] (https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail)
+[Link](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail)
