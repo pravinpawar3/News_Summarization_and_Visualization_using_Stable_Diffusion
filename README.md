@@ -6,7 +6,7 @@ Abstractive summarization of CNN news article and visualization using Stable Dif
 2. Hugging Face Stable Diffusion model
 
 
-#Sample Summary and image generated:
+# Sample Summary and image generated:
 1. "Daredevil" is coming to theaters on january 7.
 
 ![image](https://user-images.githubusercontent.com/23742943/236372079-9317a51f-eb57-4279-90b2-efe4065a937d.png)
@@ -19,4 +19,4 @@ Abstractive summarization of CNN news article and visualization using Stable Dif
 
 
 # Dataset:
-Link (https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail)
+[Link] (https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail)
